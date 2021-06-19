@@ -1,11 +1,11 @@
 export default {
   global: {
     componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+      'Desarrollo de habilidades para el ciudadano del siglo XXI',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+      '<p>Las dinámicas socioculturales y tecnológicas están direccionando a las instituciones hacia una reflexión de las formas de enseñar que conlleven a la formación de aprendices capaces de resolver problemas en contexto de la ciencia-tecnología-ingeniería-matemáticas. </p><p>En este sentido, esta experiencia de aprendizaje surge desde la necesidad de analizar el rol del instructor en el desarrollo de habilidades personales de acuerdo con el contexto STEM.</p>',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
