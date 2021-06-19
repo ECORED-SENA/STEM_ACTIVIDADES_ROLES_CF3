@@ -79,47 +79,59 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Aguirre, J., P., Vaca, V., C., y Vaca, M., C. (2019). Educación STEM: entrada a la sociedad del conocimiento. Ciencia Digital, 3(3.4), 212-227.',
+    },
+    {
+      referencia:
+        'Casal, J. D. (2019). STEM: oportunidades y retos desde la enseñanza de las ciencias. Revista de Ciències de l Educació, 1(2), 154-168.',
+    },
+    {
+      referencia:
+        'Castro, C. M. (2016). Laboratorios virtuales como alternativa para el desarrollo de competencias profesionales. Revista Iberoamericana de Producción Académica y Gestión Educativa, 2(4).',
+    },
+    {
+      referencia:
+        'Hernández, M. E. (2015). Incidencia de la motivación en el proceso de aprendizaje en los estudiantes de educación virtual en pregrado de la UNAD. UNAD.',
+    },
+    {
+      referencia:
+        'Instituto de Tecnologías Educativas. (2010). Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdfv',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Lozana, Y., Rosales, A., y Giraldo, J. (2018). Competencias del siglo XXI: ¿Cómo desarrollarlas mediante el uso de videojuegos en un contexto multigrado? Artículos de Investigación Científica y Tecnológica, 12(23).',
+      link: 'https://doi.org/10.15765/pnrm.v12i23.1191',
+    },
+    {
+      referencia:
+        'Ludeña, E. S. (2019). La educación STEAM y la cultura «maker». Padres y maestros. Journal of Parents and Teachers, (379), 45-51.',
+    },
+    {
+      referencia:
+        'Moreno, N. (2019) Educación STEM/STEAM. Apuestas hacia la formación, impacto y proyección de seres críticos. Unipanamericana, Univ. Politécnica Territorial de Falcón Alfonso Gamero, Alinin.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://alinin.org/wp-content/uploads/2020/06/Educaci%C3%B3n-STEM_STEAM.pdf',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Sánchez, D., Hernández, C. (s.f.). Ambientes de aprendizaje para la educación STEM/STEAM. Organización de los Estados Americanos. ',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Secretaría de Comunicaciones y Transporte. (2019). Marco de habilidades digitales.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.gob.mx/cms/uploads/attachment/file/444450/Marco_de_habilidades_digitales_vf.pdf',
     },
     {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+      referencia: 'Universidad Eafit. (2016). Educación STEM para todos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.eafit.edu.co/proyecto50/compartir-experiencias/estrategias-innovacion-educativa/Paginas/Educaci%C3%B3n-STEM-para-todos.aspx',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Villanueva, G., y Casas, M. (2010). e-competencias: nuevas habilidades del estudiante en la era de la educación, la globalidad y la generación del conocimiento. Signo y pensamiento, 29(56), 124-138. ',
     },
   ],
   glosario: [
@@ -157,31 +169,17 @@ export default {
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Rol del Instructor en la Educación STEM, Moreno, N. (2019). Educación STEM/STEAM. Apuestas hacia la formación, impacto y proyección de seres críticos”',
+      tipo: 'Artículo',
+      link:
+        'https://alinin.org/wp-content/uploads/2020/06/Educaci%C3%B3n-STEM_STEAM.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Habilidades Clave de la Era Digital y Complementarias, Instituto de Tecnologías Educativas. (2010). Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE.',
+      tipo: 'Artículo',
+      link:
+        'http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdfv',
     },
   ],
   creditos: {
