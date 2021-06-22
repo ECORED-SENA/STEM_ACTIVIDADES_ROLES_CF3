@@ -36,7 +36,7 @@
         p.mb-5  Por lo leído hasta aquí, <b>se concluye que la actualidad demanda de los instructores y aprendices un conjunto de habilidades y competencias basadas en las nuevas condiciones que manifiesta la sociedad.</b> Y para ello la educación STEM responde a estos desafíos mediante la integración de la ciencia-tecnología-ingeniería-matemáticas para una economía próspera y una sociedad segura y saludable. Con la intención de identificar algunas <b>habilidades necesarias en los instructores y aprendices,</b> se invita a explorar el siguiente recurso de aprendizaje. Adelante.
     
     figure
-      img(src='@/assets/curso/t1-i3.png', alt='estudiante en una mesa manipulando un brazo robótico con un control remoto')
+      img(src='@/assets/curso/t1-inf1.svg', alt='estudiante en una mesa manipulando un brazo robótico con un control remoto')
 
 
 
