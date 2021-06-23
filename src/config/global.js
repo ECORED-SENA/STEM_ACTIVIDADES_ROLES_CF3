@@ -83,7 +83,7 @@ export default {
     },
     {
       referencia:
-        'Casal, J. D. (2019). STEM: oportunidades y retos desde la enseñanza de las ciencias. Revista de Ciències de l Educació, 1(2), 154-168.',
+        "Casal, J. D. (2019). STEM: oportunidades y retos desde la enseñanza de las ciencias. Revista de Ciències de l'Educació, 1(2), 154-168.",
     },
     {
       referencia:
@@ -156,11 +156,6 @@ export default {
         'capacidad de una persona para hacer una cosa correctamente y con facilidad.',
     },
     {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
       termino: 'Simulador',
       significado:
         'dispositivo o aparato que simula un fenómeno, el funcionamiento real de otro aparato o dispositivo o las condiciones de entorno a las que están sometidos una máquina, aparato o material.',
@@ -211,20 +206,31 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Jorge Armando Villamizar Moreno',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: [
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez ',
+          'Victor Cardenas',
+          'Lina Marcela Perez',
+          'John Archiniegas',
+        ],
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Luis Fabian Robles Méndez',
+        cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

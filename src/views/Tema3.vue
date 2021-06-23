@@ -21,12 +21,12 @@
           img.h80(src='@/assets/curso/t3-i2.svg' alt='icono decorativo')
           .tarjeta.tarjeta--gris
             .p-3
-              p <b>La tecnología para la educación</b> es el conjunto de equipos con los cuales se hace más fácil la manera de dictar los contenidos de un plan académico. En este grupo se pueden encontrar las tabletas, los libros digitales, los tableros inteligentes y los programas de computadora en línea para acceso de instructores, padres y aprendices, entre otros.  
+              p <b>Los laboratorios físicos </b> son aquellos que cuentan con infraestructura y equipos, como mesas especiales, tubería para gas y agua (caso de laboratorios de ciencias naturales), equipos de medición (temperatura, pH, velocidad, etc.), equipos de electrónica y robótica (caso de laboratorios mecatrónica), entre otros.  
         .tarjeta-avatar-b.mb-5.align-items-center
           img.h80(src='@/assets/curso/t3-i2.svg' alt='icono decorativo')
           .tarjeta.tarjeta--gris
             .p-3
-              p <b>La instrucción y tecnología</b>  hacen referencia a los conocimientos que debe tener un aprendiz desde educación preescolar hasta el grado once, que le permitan obtener y desarrollar habilidades para una sociedad eminentemente tecnológica.
+              p <b>En el caso de los laboratorios virtuales</b>  permite realizar lo antes mencionado, pero desde un enfoque virtual o digital, requiriendo únicamente un computadora o dispositivo móvil.
     .row.justify-content-center
       .col-lg-10
         .cajon.color-secundario.p-4

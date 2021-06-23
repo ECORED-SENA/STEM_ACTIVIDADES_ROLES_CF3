@@ -101,7 +101,7 @@
             .col-lg-3
               img.h45(src='@/assets/curso/t1-i10.svg' alt='icono decorativo')
             .col-lg-9
-              p Revisar las notificaciones del curso constantemente.
+              p Participar de los foros y actividades sugeridas por el instructor. 
         .tarjeta.tarjeta--azul.p-4.align-items-center.mb-5
           .row
             .col-lg-3
