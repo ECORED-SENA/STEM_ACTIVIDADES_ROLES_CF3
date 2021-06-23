@@ -166,8 +166,7 @@ export default {
       texto:
         'Rol del Instructor en la Educación STEM, Moreno, N. (2019). Educación STEM/STEAM. Apuestas hacia la formación, impacto y proyección de seres críticos”',
       tipo: 'Artículo',
-      link:
-        'https://alinin.org/wp-content/uploads/2020/06/Educaci%C3%B3n-STEM_STEAM.pdf',
+      descarga: '/downloads/Educacion-STEM_STEAM.pdf',
     },
     {
       texto:

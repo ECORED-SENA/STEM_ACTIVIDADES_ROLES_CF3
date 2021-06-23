@@ -63,7 +63,7 @@
               p.mb-4  Con el surgimiento de la Tecnologías de la Información y Comunicación se ha diversificado la economía en relación con los factores tradicionales de producción. A estos se les suma el conocimiento como factor de prosperidad y una opción para mejorar la calidad de vida de las personas. Por ello, las instituciones de educación deben repensar las habilidades y conocimientos que ayuden a los instructores y aprendices a resolver los problemas de su contexto. En este sentido se sugiere leer el texto Marco de habilidades digitales (2019), en el que podrá comprender las habilidades digitales. Adelante. 
                 .row
                   .col-lg-8
-                    a.anexo.mb-4.mb-lg-0(href="https://www.gob.mx/cms/uploads/attachment/file/444450/Marco_de_habilidades_digitales_vf.pdf" target="_blank")
+                    a.anexo.mb-4.mb-lg-0(href="/downloads/Marco_de_habilidades_digitales_vf.pdf" target="_blank")
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
