@@ -189,7 +189,30 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Cristina Hurtado Zúñiga',
+        cargo: 'Profesora Experta',
+        centro:
+          'Centro de Diseño Tecnológico Industrial del SENA - Regional Valle',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Centro de Diseño Y metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -220,8 +243,7 @@ export default {
           'Wilson Andrés Arenales Caceres',
           'Gilberto Junior Rodriguez Rodriguez ',
           'Victor Cardenas',
-          'Lina Marcela Perez',
-          'John Archiniegas',
+          'Carmen Martinez',
         ],
         cargo: 'Producción audiovisual',
         centro:
@@ -234,7 +256,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
