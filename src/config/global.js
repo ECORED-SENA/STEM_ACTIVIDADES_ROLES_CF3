@@ -193,20 +193,20 @@ export default {
       },
       {
         nombre: 'María Cristina Hurtado Zúñiga',
-        cargo: 'Profesora Experta',
+        cargo: 'Profesora experta',
         centro:
           'Centro de Diseño Tecnológico Industrial del SENA - Regional Valle',
       },
       {
         nombre: 'Cristian Metaute Medina',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
-        centro: 'Centro de Diseño Y metrología - Regional Distrito Capital',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y metrología - Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
@@ -220,7 +220,7 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
@@ -231,42 +231,55 @@ export default {
         nombre: 'Jorge Armando Villamizar Moreno',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: [
-          'Wilson Andrés Arenales Caceres',
-          'Gilberto Junior Rodriguez Rodriguez ',
-          'Victor Cardenas',
-          'Carmen Martinez',
-        ],
+        nombre: ['Wilson Andrés Arenales Caceres'],
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Victor Cardenas',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Martinez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Luis Fabian Robles Méndez',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
