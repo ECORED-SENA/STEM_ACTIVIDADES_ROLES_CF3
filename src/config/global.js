@@ -206,7 +206,7 @@ export default {
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Revisor metodológico y pedagógico',
-        centro: 'Centro de Diseño y metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
