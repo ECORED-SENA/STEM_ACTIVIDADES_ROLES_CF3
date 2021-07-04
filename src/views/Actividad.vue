@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Actividad didáctica 1: ¿Qué haría usted?
-        p.mb-4 <b>Objetivo:</b> Valor situaciones del contexto de la educación en Colombia frente a las competencias del siglo XXI.
+        p.mb-4 <b>Objetivo:</b> valor situaciones del contexto de la educación en Colombia frente a las competencias del siglo XXI.
         .tarjeta.tarjeta--azul.p-3
           .row      
             .col-auto

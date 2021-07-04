@@ -97,7 +97,7 @@ export default {
       referencia:
         'Instituto de Tecnologías Educativas. (2010). Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE. ',
       link:
-        'http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdfv',
+        'http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdf',
     },
     {
       referencia:
@@ -173,7 +173,7 @@ export default {
         'Habilidades Clave de la Era Digital y Complementarias, Instituto de Tecnologías Educativas. (2010). Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE.',
       tipo: 'Artículo',
       link:
-        'http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdfv',
+        'http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdf',
     },
   ],
   creditos: {
