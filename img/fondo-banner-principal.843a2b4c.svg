@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320" height="506" viewBox="0 0 1320 506">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5245" data-name="Rectangle 5245" width="1320" height="506" rx="20" transform="translate(140.333 71)" fill="#31326f"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.225" x2="0.479" y2="0.411" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#494ba6"/>
+      <stop offset="1" stop-color="#5a5ccc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.134" y1="-0.096" x2="0.438" y2="0.338" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="fondo-banner-principal" transform="translate(-140.333 -71)" clip-path="url(#clip-path)">
+    <g id="Rectangle_5649" data-name="Rectangle 5649" transform="translate(99.333 55)" fill="#31326f" stroke="#707070" stroke-width="1">
+      <rect width="1402" height="538" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1401" height="537" rx="19.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_4127" data-name="Ellipse 4127" cx="291" cy="291" r="291" transform="translate(1287.333 304) rotate(180)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_4130" data-name="Ellipse 4130" cx="291" cy="291" r="291" transform="translate(1048.109 324)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_4152" data-name="Ellipse 4152" cx="291" cy="291" r="291" transform="translate(-137.891 353.826)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_4128" data-name="Ellipse 4128" cx="232.5" cy="252" rx="232.5" ry="252" transform="translate(1265.333 220) rotate(180)" fill="url(#linear-gradient-4)"/>
+    <ellipse id="Ellipse_4129" data-name="Ellipse 4129" cx="232.5" cy="252" rx="232.5" ry="252" transform="translate(1070.109 408)" fill="url(#linear-gradient-4)"/>
+    <ellipse id="Ellipse_4151" data-name="Ellipse 4151" cx="232.5" cy="252" rx="232.5" ry="252" transform="translate(-115.891 437.826)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
